@@ -17,3 +17,7 @@
 #           image: my-angular-app:latest
 #           ports:
 #             - containerPort: 80
+
+
+[config]
+app_type = node
